@@ -1,4 +1,4 @@
-# default_prediction
+# Description
 The task involves creating a predictive model to estimate the probability of a default event occurring.
 
 ## Table of Contents
