@@ -14,9 +14,17 @@ To get started with this project, follow these steps:
 1. Clone this repository:
 ```git clone https://github.com/your-username/default-detection.git```
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 ```pip install -r requirements.txt```
 
+3. Open the command prompt or terminal.
+
+5. Run the main script with the provided test data.
+```python main.py NBKI_test.zip```
+Example:
+![image](https://github.com/orfey7/default_prediction/assets/55453859/2359aee2-0c3b-4d93-9b1c-723163b0497e)
+
+This will generate predictions and metrics for default detection.
 
 ## Results
 
