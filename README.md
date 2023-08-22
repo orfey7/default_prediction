@@ -12,7 +12,7 @@ The task involves creating a predictive model to estimate the probability of a d
 To get started with this project, follow these steps:
 
 1. Clone this repository:
-```git clone https://github.com/your-username/default-detection.git```
+```git clone https://github.com/orfey7/default_prediction```
 
 2. Install the required dependencies:
 ```pip install -r requirements.txt```
