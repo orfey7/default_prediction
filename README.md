@@ -17,10 +17,10 @@ Welcome to the Default Detection project repository! This project aims to build 
 To get started with this project, follow these steps:
 
 1. Clone this repository:
-`sh`git clone https://github.com/your-username/default-detection.git`sh`
+```git clone https://github.com/your-username/default-detection.git```
 
 3. Install the required dependencies:
-`sh`pip install -r requirements.txt`sh`
+```pip install -r requirements.txt```
 
 
 ## Results
