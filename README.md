@@ -5,8 +5,7 @@ The task involves creating a predictive model to estimate the probability of a d
 
 - [Getting Started](#getting-started)
 - [Results](#results)
-- [Future Work](#future-work)
-- [Contributors](#contributors)
+- [TODO list](#TODOlist)
 
 ## Getting Started
 
@@ -23,7 +22,7 @@ To get started with this project, follow these steps:
 
 The results of my initial model are displayed in the provided notebooks.
 
-## TODO LIST
+## TODO list
 
 Future steps for this project may include:
 
