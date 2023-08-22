@@ -1,10 +1,6 @@
 # default_prediction
 The task involves creating a predictive model to estimate the probability of a default event occurring.
 
-# Default Detection Project
-
-Welcome to the Default Detection project repository! This project aims to build a predictive model for assessing the likelihood of default events. The goal is to develop a model that can predict whether an individual or entity is likely to default on a loan or credit obligation.
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
